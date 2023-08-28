@@ -5,6 +5,7 @@
 
 ### Tecnologias que uso no meu dia:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelixdev&hide=contribs,prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelixdev&hide=javascript,html)
 
 
 
