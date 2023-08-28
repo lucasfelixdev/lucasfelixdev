@@ -4,8 +4,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lukasfelix___/)
 
 ### Tecnologias que uso no meu dia:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfelixdev&hide=contribs,prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelixdev&hide=javascript,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfelixdev&layout=compact)
 
 
 
