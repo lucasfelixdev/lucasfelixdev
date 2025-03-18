@@ -1,8 +1,8 @@
 <h3>Sobre mim</h3>
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando **Análise De Sistemas** na <a href="https://unifip.edu.br/curso/26">Unifip</a>.
-- 💼 Trabalhando como **Freelancer** e  em busca do primeiro estágio ou oportunidade Jr.
+- 🎓 Formado **Análise De Sistemas** na <a href="https://unifip.edu.br/curso/26">Unifip</a>.
+- 💼 Trabalhando como **Freelancer** e  em busca da primeira oportunidade Jr.
 - 🌱 &nbsp; Aprendendo mais sobre **REACT, REACT NATIVE, Python Selenium e Django**.
 
 <h3>Minhas Skills</h3>
