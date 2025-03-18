@@ -1,9 +1,9 @@
 <h3>Sobre mim</h3>
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.  
-- 🎓 Formado em **Análise de Sistemas** na [Unifip](https://unifip.edu.br/curso/26).  
-- 💼 Trabalhando como **Freelancer** e em busca da primeira oportunidade Jr.  
-- 🌱 Aprendendo mais sobre **React, React Native, Python Selenium e Django**.  
-- ✨ [www.lucasfelixdev.com](https://www.lucasfelixdev.com)
+Explorando novas tecnologias e desenvolvendo soluções de software.
+Formado em Análise de Sistemas na Unifip.
+Trabalhando como Freelancer e em busca da primeira oportunidade Jr.
+Aprendendo mais sobre React, React Native, Python Selenium e Django.
+www.lucasfelixdev.com
 
 
 <h3>Minhas Skills</h3>
